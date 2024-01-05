@@ -1,4 +1,6 @@
 # TwitterBot
+## This project is no longer active due to twitter's API changes in 2022-2023py
+
 Some Twitter tools using Python and tweepy
 
 I use @Chase06437181 as a hybrid human/code twitter account
